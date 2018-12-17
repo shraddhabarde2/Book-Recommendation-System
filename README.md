@@ -1,5 +1,5 @@
 # Book-Recommendation-System
-Web Mining 
+Web Mining Class Project
 
 Sentiment Analysis on user reviews to recommend books to readers on GoodReads
 
